@@ -22,7 +22,7 @@ public class App
         There are two subclasses
         2) Healthy burger (on a brown rye roll), plus two additional items
         There are an additional 6 toppings that you can add
-        3) Deluxe burger cames with chips and drinks, but no extra toppings.
+        3) Deluxe burger comes with chips and drinks, but no extra toppings.
         All three burgers should have a method that can be called at any time to
         show the base price of the burger, plus all additions, should show each addition
         name and price and a final total cost.
